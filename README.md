@@ -9,4 +9,4 @@ Saya sedang dalam masa perkuliahan di Universitas Udayana.<br>
 Saya juga memiliki sertifikasi beberapa course online :<br>
 * Wordpress Development : [MySkill](https://storage.googleapis.com/myskill-v2-certificates/bootcamp-0oHpg83O1vr20ZrAn71a/QL4VraHZdzO71kzEL1pVHzAWSmJ3-K5SIzvLFbdOypRh8sLjw.pdf).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/komang-indra-pradnya/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/komang-indra-pradnya/) -ku ya.
