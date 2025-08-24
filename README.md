@@ -4,8 +4,9 @@ Perkenalkan nama saya **Komang Indra Pradnya**.<br>
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya sedang dalam masa perkuliahan di Universitas Udayana.<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya juga memiliki sertifikasi beberapa course online :<br>
+* Wordpress Development : [MySkill](https://storage.googleapis.com/myskill-v2-certificates/bootcamp-0oHpg83O1vr20ZrAn71a/QL4VraHZdzO71kzEL1pVHzAWSmJ3-K5SIzvLFbdOypRh8sLjw.pdf).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/komang-indra-pradnya/)ku ya.
